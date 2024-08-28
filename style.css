@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: url(background\ 2.jpg);
+    background: url(background\ 2.jpg)no-repeat center center/cover;;
     color: #fff;
     background-size: 100% 100%;
 }
 
 header {
-    background: url(background\ 2.jpg);
+    background: url(background\ 2.jpg)no-repeat center center/cover;;
     color: #fff;
     padding: 15px;
     text-align: center;
@@ -36,7 +36,7 @@ nav a:hover {
 
 main {
     padding: 20px;
-    background-image:url(background\ 2.jpg);
+    background-image:url(background\ 2.jpg)no-repeat center center/cover;;
     background-size: 100% 100%;
 }
 
