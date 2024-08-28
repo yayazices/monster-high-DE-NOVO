@@ -35,8 +35,10 @@ nav a:hover {
 }
 
 main {
+    padding: 30px;
     background-image:url(background\ 2.jpg)no-repeat center center/cover;;
     background-size: 100% 100%;
+    margin-bottom: 200px;
 }
 
 section {
@@ -73,7 +75,7 @@ section {
 
 footer {
     background-color: #000000;
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     padding: 1px;
     position: fixed;
