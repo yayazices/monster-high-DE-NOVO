@@ -42,7 +42,7 @@ section {
 }
 
 .card {
-    background-color: #50195e;
+    background-color: #000000af;
     border: 1px solid #000000;
     border-radius: 8px;
     padding: 20px;
@@ -70,7 +70,7 @@ section {
 }
 
 footer {
-    background-color: #50195e;
+    background-color: #03000365;
     color: #fff;
     text-align: center;
     padding: 1px;
