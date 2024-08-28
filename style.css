@@ -35,7 +35,6 @@ nav a:hover {
 }
 
 main {
-    padding: 20px;
     background-image:url(background\ 2.jpg)no-repeat center center/cover;;
     background-size: 100% 100%;
 }
@@ -80,7 +79,7 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
-
+    margin-top: 5px;
 }
 .personagem {
     width: 50px;
